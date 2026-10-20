@@ -9,7 +9,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | :------------- |:-------------:| :-----:| :-----: | :------: |
 | [The Ultimate Cloud Security Championship](https://www.cloudsecuritychampionship.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://wiz.io)  | A monthly CTF challenge, with challenges curated by a Star Wiz researcher.  Challenges and leaderboard hosted by Wiz.  |
 | [CloudFoxable](https://github.com/BishopFox/cloudfoxable)    | AWS | Self-hosted CTF Challenge | [Seth Art](https://twitter.com/sethsec)  | Create your own vulnerable by design AWS penetration testing playground  
-| [Pwned Labs](https://pwnedlabs.io) | AWS, Azure, Kubernetes | Author-hosted Guided Labs, CTF | [Ian Austin](https://www.linkedin.com/in/ian-austin-a42002156/) | Requires account registration; Commercial paid subscriptions; free hosted labs for learning cloud security |
+| [Pwned Labs](https://pwnedlabs.io) | AWS, Azure, GCP, Kubernetes | Author-hosted Guided Labs, CTF | [Ian Austin](https://www.linkedin.com/in/ian-austin-a42002156/) | Requires account registration; Commercial paid subscriptions; free hosted labs for learning cloud security |
 | [The Big IAM Challenge](https://bigiamchallenge.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF challenge to identify and exploit IAM misconfigurations |
 | [The Cloud Hunting Games](https://www.cloudhuntinggames.com/)    | AWS | Author-hosted CTF Challenge | [Wiz](https://www.wiz.io)  | CTF ransomware challenge designed to teach real-world cloud investation based on TTPs seen in the wild  |
 | [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) | AWS | Self-hosted Challenge | [Doyensec](https://doyensec.com/)  | Three web app security flaws specific to AWS cloud, self-hosted with terraform  |
@@ -122,6 +122,8 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 [GCPGoat (ine-labs)](https://github.com/ine-labs/GCPGoat): Bring your own GCP account and build one module with terraform.  Provides attack and defense manuals.
 
 [Thunder CTF](https://thunder-ctf.cloud/): Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP.
+
+[Pwned Labs](https://pwnedlabs.io/explore): Author-hosted guided Google Cloud and Workspace labs. Requires a login. Some labs are free, e.g. [Reveal Hidden Files in Google Storage](https://pwnedlabs.io/explore/reveal-hidden-files-in-google-storage) and [Illuminate GCP by Fuzzing IAM Permissions](https://pwnedlabs.io/explore/illuminate-gcp-by-fuzzing-iam-permissions).
 
 ## Kubernetes
 
